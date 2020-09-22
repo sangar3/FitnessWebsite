@@ -222,3 +222,14 @@ section video
     }
 
 }
+
+#thankyou-header
+{
+    color: black;
+    font-size: 3em;
+}
+
+#thankyou-section
+{
+    position: center;
+}
